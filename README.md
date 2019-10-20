@@ -1,7 +1,6 @@
 Для запуска проекта:
 
-1) Склонировать в свою рабочую папку на диске проект - git clone https://github.com/parsgeorg/taskManager
-.git
+1) Склонировать в свою рабочую папку на диске проект - git clone https://github.com/parsgeorg/taskManager.git
 
 2) Установить необходимые зависимочти - npm i
 
