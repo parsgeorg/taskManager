@@ -1,8 +1,8 @@
 {
-  "name": "tasks_beejee",
+  "name": "taskManager",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "parsgeorg.github.io/taskManager",
+  "private": false,
+  "homepage": "http://parsgeorg.github.io/taskManager",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "axios": "^0.18.1",
