@@ -1,3 +1,5 @@
+https://parsgeorg.github.io/taskManager/
+
 Для запуска проекта:
 
 1) Склонировать в свою рабочую папку на диске проект - git clone https://github.com/parsgeorg/taskManager.git
