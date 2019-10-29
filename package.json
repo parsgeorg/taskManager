@@ -2,7 +2,7 @@
   "name": "taskManager",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://parsgeorg.github.io/taskManager",
+  "homepage": "https://parsgeorg.github.io/taskManager",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "axios": "^0.18.1",
